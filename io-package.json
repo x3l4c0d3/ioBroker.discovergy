@@ -51,7 +51,8 @@
 			"pl": "Ten adapter pozwala użytkownikom Discovergy zsynchronizować wszystkie swoje pomiary z ioBroker"
 		},
 		"authors": [
-			"Dutchman <rdrozda86@gmail.com>"
+			"Dutchman <rdrozda86@gmail.com>",
+			"x3l4 <x3l4@emailn.de>"
 		],
 		"keywords": [
 			"ioBroker",
